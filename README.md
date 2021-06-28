@@ -1,6 +1,3 @@
-# React-Leaflet Demo
+### Find Skateparks Using OpenStreet View's open source API
 
-Using React and Leaflet to render Markers and Popups in a map in React.
-
-- Article: Coming soon!
-- Video: Coming soon!
+Fun side project for a google maps alternative.
