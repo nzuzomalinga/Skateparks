@@ -2,9 +2,9 @@
 
 Fun side project for a google maps alternative.
 
-#Install
+# Install
 
 clone the repo, and run ```npm i```
 
-#Run
+# Run
  open the terminal in root directory and run ```npm start```
